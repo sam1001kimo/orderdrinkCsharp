@@ -1,0 +1,90 @@
+E:\C#語言\上課練習\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+E:\C#語言\上課練習\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+E:\C#語言\上課練習\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+E:\C#語言\上課練習\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojResolveAssemblyReference.cache
+E:\C#語言\上課練習\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+E:\C#語言\上課練習\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+E:\C#語言\上課練習\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+E:\C#語言\上課練習\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+E:\C#語言\上課練習\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+E:\C#語言\上課練習\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+E:\C#語言\C#語言作業\陳善輝\作業四陳善輝\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+E:\C#語言\C#語言作業\陳善輝\作業四陳善輝\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+E:\C#語言\C#語言作業\陳善輝\作業四陳善輝\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+E:\C#語言\C#語言作業\陳善輝\作業四陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojResolveAssemblyReference.cache
+E:\C#語言\C#語言作業\陳善輝\作業四陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+E:\C#語言\C#語言作業\陳善輝\作業四陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+E:\C#語言\C#語言作業\陳善輝\作業四陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+E:\C#語言\C#語言作業\陳善輝\作業四陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+E:\C#語言\C#語言作業\陳善輝\作業四陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+E:\C#語言\C#語言作業\陳善輝\作業四陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+E:\行動開發\C#語言\C#語言作業\陳善輝\作業四陳善輝\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+E:\行動開發\C#語言\C#語言作業\陳善輝\作業四陳善輝\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+E:\行動開發\C#語言\C#語言作業\陳善輝\作業四陳善輝\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+E:\行動開發\C#語言\C#語言作業\陳善輝\作業四陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+E:\行動開發\C#語言\C#語言作業\陳善輝\作業四陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+E:\行動開發\C#語言\C#語言作業\陳善輝\作業四陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+E:\行動開發\C#語言\C#語言作業\陳善輝\作業四陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+E:\行動開發\C#語言\C#語言作業\陳善輝\作業四陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+E:\行動開發\C#語言\C#語言作業\陳善輝\作業四陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+E:\行動開發\C#語言\C#語言作業\陳善輝\作業四陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+E:\行動開發\C#語言\作業\作業4陳善輝\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+E:\行動開發\C#語言\作業\作業4陳善輝\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+E:\行動開發\C#語言\作業\作業4陳善輝\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+E:\行動開發\C#語言\作業\作業4陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+E:\行動開發\C#語言\作業\作業4陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+E:\行動開發\C#語言\作業\作業4陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+E:\行動開發\C#語言\作業\作業4陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+E:\行動開發\C#語言\作業\作業4陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+E:\行動開發\C#語言\作業\作業4陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+E:\行動開發\C#語言\作業\作業4陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+E:\C#語言\作業\作業4陳善輝\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+E:\C#語言\作業\作業4陳善輝\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+E:\C#語言\作業\作業4陳善輝\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+E:\C#語言\作業\作業4陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojResolveAssemblyReference.cache
+E:\C#語言\作業\作業4陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+E:\C#語言\作業\作業4陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+E:\C#語言\作業\作業4陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+E:\C#語言\作業\作業4陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+E:\C#語言\作業\作業4陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+E:\C#語言\作業\作業4陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+E:\C#語言\作業4陳善輝\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+E:\C#語言\作業4陳善輝\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+E:\C#語言\作業4陳善輝\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+E:\C#語言\作業4陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojResolveAssemblyReference.cache
+E:\C#語言\作業4陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+E:\C#語言\作業4陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+E:\C#語言\作業4陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+E:\C#語言\作業4陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+E:\C#語言\作業4陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+E:\C#語言\作業4陳善輝\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+E:\C#語言\作業\作業4陳善輝 - 複製\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+E:\C#語言\作業\作業4陳善輝 - 複製\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+E:\C#語言\作業\作業4陳善輝 - 複製\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+E:\C#語言\作業\作業4陳善輝 - 複製\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojResolveAssemblyReference.cache
+E:\C#語言\作業\作業4陳善輝 - 複製\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+E:\C#語言\作業\作業4陳善輝 - 複製\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+E:\C#語言\作業\作業4陳善輝 - 複製\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+E:\C#語言\作業\作業4陳善輝 - 複製\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+E:\C#語言\作業\作業4陳善輝 - 複製\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+E:\C#語言\作業\作業4陳善輝 - 複製\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+E:\行動開發\C#語言\作業\作業4陳善輝 - 複製\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+E:\行動開發\C#語言\作業\作業4陳善輝 - 複製\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+E:\行動開發\C#語言\作業\作業4陳善輝 - 複製\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+E:\行動開發\C#語言\作業\作業4陳善輝 - 複製\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+E:\行動開發\C#語言\作業\作業4陳善輝 - 複製\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+E:\行動開發\C#語言\作業\作業4陳善輝 - 複製\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+E:\行動開發\C#語言\作業\作業4陳善輝 - 複製\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+E:\行動開發\C#語言\作業\作業4陳善輝 - 複製\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+E:\行動開發\C#語言\作業\作業4陳善輝 - 複製\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+E:\行動開發\C#語言\作業\作業4陳善輝 - 複製\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+E:\行動開發\C#語言\作業\作業4陳善輝 - 兩個不同就成立\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+E:\行動開發\C#語言\作業\作業4陳善輝 - 兩個不同就成立\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+E:\行動開發\C#語言\作業\作業4陳善輝 - 兩個不同就成立\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+E:\行動開發\C#語言\作業\作業4陳善輝 - 兩個不同就成立\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+E:\行動開發\C#語言\作業\作業4陳善輝 - 兩個不同就成立\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+E:\行動開發\C#語言\作業\作業4陳善輝 - 兩個不同就成立\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+E:\行動開發\C#語言\作業\作業4陳善輝 - 兩個不同就成立\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+E:\行動開發\C#語言\作業\作業4陳善輝 - 兩個不同就成立\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+E:\行動開發\C#語言\作業\作業4陳善輝 - 兩個不同就成立\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+E:\行動開發\C#語言\作業\作業4陳善輝 - 兩個不同就成立\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
